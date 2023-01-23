@@ -1,0 +1,21 @@
+        body
+		{
+			background-color:powderblue;
+		}
+		h3
+		{
+            background-color: black;
+			color:rgb(171, 127, 127);
+		}
+		p
+		{   background-color: aliceblue;
+			color:darkcyan;
+		}
+		hr
+		{
+			width: 5%;
+			border-style: none;
+			border-top-style:dotted ;
+			border-color: black;
+			border-width: 5px;
+		}
